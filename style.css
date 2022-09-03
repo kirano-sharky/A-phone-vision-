@@ -72,52 +72,8 @@ body {
 }
 
 
-/* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}*/
 
-/*body {
-    /*background-image: url('https://w0.peakpx.com/wallpaper/341/716/HD-wallpaper-anime-virtual-youtuber-gawr-gura-mori-calliope.jpg');*/
-    /*background-image: url('https://preview.redd.it/mza31ygt2f671.png?width=640&crop=smart&auto=webp&s=29b4c38d62b0ca493f35e6ae6b4815520605744f');
-    background-repeat: no-repeat;
-    background-size: 1540px;
-    background-attachment: fixed;
-    width: 100%;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    /*background: #4b94E2;*/
-    /*background: #5D81c7;
-}
-
-.卡片 {
-    width: 200px;
-    height: min-content;
-    padding: 30px;
-    margin: 0 15px;
-    border-radius: 8px;
-    box-shadow: 0 0 50px rgba(0, 0, 0, .5);
-    align-items: center;
-    backdrop-filter: blur(20px) brightness(120%);
-}
-
-.卡片 .圖片 img {
-    width: 100px;
-}
-
-.卡片:hover .圖片 img {
-    height: 150px;
-    width: 150px;
-}
-
-.卡片 .圖片 {
-    text-align: center;
-}
-
-.卡片 button {
+/*.卡片 button {
     font-family: 'Courier New', Courier, monospace;
     border-width: 0px;
     width: 100%;
