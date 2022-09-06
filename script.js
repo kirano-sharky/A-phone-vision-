@@ -1,4 +1,4 @@
 /*alert('click me!')*/
 
-const audio = new Audio();
-audio.src = 'audio/gura-a.mp3';
+const A = new Audio();
+audio.A = 'audio/gura-a.mp3';
